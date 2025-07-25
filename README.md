@@ -80,7 +80,15 @@ $ python transcript.py
   <br>
 </h1>
 
-The Whisper architecture represents an efficient end-to-end solution, implemented through an encoder-decoder Transformer framework. Input audio is segmented into 30-second intervals, transformed into a log-Mel spectrogram, and subsequently processed by an encoder. A decoder, meticulously trained, generates the corresponding text caption, seamlessly integrating special tokens that enable the unified model to execute diverse tasks, including language identification, phrase-level timestamping, multilingual speech transcription, and translation of speech into English. This design ensures a robust and versatile approach to audio processing and transcription.
+Whisper's architecture incorporates an optimized end-to-end solution, taking advantage of a Transformer encoder-decoder structure for efficient audio processing and transcription. The input audio is divided into 30-second segments, converted into a log-Mel spectrogram and then processed by an encoder. A meticulously trained decoder generates the corresponding text caption, incorporating special tokens that allow the unified model to perform a number of tasks, including language identification, sentence-level timestamping, multilingual speech transcription and speech-to-English translation. This architecture offers a robust and adaptable approach to audio analysis and transcription.
+
+Whisper models are designed for speech recognition and translation, being able to transcribe spoken audio into text in its original language (automatic speech recognition, ASR) and translate it into English (speech translation). Developed by OpenAI researchers, these models were designed to investigate the resilience of speech processing systems trained with extensive weak supervision. The set consists of nine models of different sizes and capabilities, detailed in the attached table.
+
+<h1 align="center">
+  <br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image\size.png" alt="Markdownify" width="600"></a>
+  <br>
+</h1>
 
 ## Benchmark
 
