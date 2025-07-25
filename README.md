@@ -25,7 +25,9 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](image\whisper.gif)
+<div style="text-align: center;">
+  <img src="image\whisper.gif" alt="Markdownify" width="600">
+</div>
 
 ## Working Summary
 
@@ -67,7 +69,9 @@ $ python transcript.py
 
 ## How it works
 
-![screenshot](image\architecture.png)
+<div style="text-align: center;">
+  <img src="image\architecture.png" alt="Markdownify" width="600">
+</div>
 
 The Whisper architecture represents an efficient end-to-end solution, implemented through an encoder-decoder Transformer framework. Input audio is segmented into 30-second intervals, transformed into a log-Mel spectrogram, and subsequently processed by an encoder. A decoder, meticulously trained, generates the corresponding text caption, seamlessly integrating special tokens that enable the unified model to execute diverse tasks, including language identification, phrase-level timestamping, multilingual speech transcription, and translation of speech into English. This design ensures a robust and versatile approach to audio processing and transcription.
 
@@ -75,11 +79,15 @@ The Whisper architecture represents an efficient end-to-end solution, implemente
 
 A benchmark was conducted to evaluate the performance of Whisper's different model sizes using a 40-second [video](https://www.youtube.com/shorts/sEyfPS-3UvU) with the theme 'Looking for ways to elevate your portfolio'. The results indicated processing times ranging from 2.8 seconds to 82 seconds.
 
-![screenshot](image\time.png)
+<div style="text-align: center;">
+  <img src="image\time.png" alt="Markdownify" width="600">
+</div>
 
 and evaluating the quality of the results, I came to these conclusions
 
-![screenshot](image\quality.png)
+<div style="text-align: center;">
+  <img src="image\quality.png" alt="Markdownify" width="600">
+</div>
 
 ## Contact
 
