@@ -8,15 +8,15 @@
 
 <h4 align="center">Contact and <a>Installers</a>.</h4>
 
-<div style="text-align: center;">
-
+  <div style="text-align: center;">
+  
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-j-marques)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.marques.professional@gmail.com)
   [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/download/success)
   [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/pt-BR/index/whisper)
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
   
-</div>
+  </div>
 
 <p align="center">
   <a href="#working-Summary">Working Summary</a> •
