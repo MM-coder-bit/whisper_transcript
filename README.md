@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="image\image.png" alt="Markdownify" width="200"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image\image.png" alt="Markdownify" width="200"></a>
   <br>
   Automatic Speech Recognition, Transcription and Translation System
   <br>
@@ -8,12 +8,15 @@
 
 <h4 align="center">Contact and <a>Installers</a>.</h4>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-j-marques)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.marques.professional@gmail.com)
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/download/success)
-[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/pt-BR/index/whisper)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+<div style="text-align: center;">
 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-j-marques)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.marques.professional@gmail.com)
+  [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/download/success)
+  [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/pt-BR/index/whisper)
+  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+  
+</div>
 
 <p align="center">
   <a href="#working-Summary">Working Summary</a> •
@@ -25,9 +28,11 @@
   <a href="#license">License</a>
 </p>
 
-<div style="text-align: center;">
-  <img src="image\whisper.gif" alt="Markdownify" width="600">
-</div>
+<h1 align="center">
+  <br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image\whisper.gif" alt="Markdownify" width="600"></a>
+  <br>
+</h1>
 
 ## Working Summary
 
@@ -69,9 +74,11 @@ $ python transcript.py
 
 ## How it works
 
-<div style="text-align: center;">
-  <img src="image\architecture.png" alt="Markdownify" width="600">
-</div>
+<h1 align="center">
+  <br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image\architecture.png" alt="Markdownify" width="600"></a>
+  <br>
+</h1>
 
 The Whisper architecture represents an efficient end-to-end solution, implemented through an encoder-decoder Transformer framework. Input audio is segmented into 30-second intervals, transformed into a log-Mel spectrogram, and subsequently processed by an encoder. A decoder, meticulously trained, generates the corresponding text caption, seamlessly integrating special tokens that enable the unified model to execute diverse tasks, including language identification, phrase-level timestamping, multilingual speech transcription, and translation of speech into English. This design ensures a robust and versatile approach to audio processing and transcription.
 
@@ -79,15 +86,19 @@ The Whisper architecture represents an efficient end-to-end solution, implemente
 
 A benchmark was conducted to evaluate the performance of Whisper's different model sizes using a 40-second [video](https://www.youtube.com/shorts/sEyfPS-3UvU) with the theme 'Looking for ways to elevate your portfolio'. The results indicated processing times ranging from 2.8 seconds to 82 seconds.
 
-<div style="text-align: center;">
-  <img src="image\time.png" alt="Markdownify" width="600">
-</div>
+<h1 align="center">
+  <br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image\time.png" alt="Markdownify" width="600"></a>
+  <br>
+</h1>
 
 and evaluating the quality of the results, I came to these conclusions
 
-<div style="text-align: center;">
-  <img src="image\quality.png" alt="Markdownify" width="600">
-</div>
+<h1 align="center">
+  <br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image\quality.png" alt="Markdownify" width="600"></a>
+  <br>
+</h1>
 
 ## Contact
 
