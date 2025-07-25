@@ -96,8 +96,9 @@ A benchmark was conducted to evaluate the performance of Whisper's different mod
 
 <h1 align="center">
   <br>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image\time.png" alt="Markdownify" width="600"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352730690272006145"><img src="image/time.png" alt="Markdownify" width="600"></a>
   <br>
+  <span style="font-size: 9px;">Intel Core i7, 16 GB RAM (Test System)</span>
 </h1>
 
 and evaluating the quality of the results, I came to these conclusions
